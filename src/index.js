@@ -39,3 +39,27 @@ console.log('{myname} is index ${positionOfMyName}');
 
 //   // Write code here
 // } 
+
+// const listOfDestinations [Paris, Rome, London, Madrid, New York]
+
+// const listOfNames [Mason, Marcora, Rico, Neves, Ivanov]
+
+// const myName = "May"
+
+// const addMyName = listOfNames.push('myName')
+// console.log(`Here's the list of names with my name added: $(addMyName)`)
+
+// const orderAZ = listOfNames.sort()
+
+// console.log(`Here's the list of names ordered alphabetically: $(orderAZ)`)
+
+// let positionOfMyName = null
+
+// for (let i=0; i < orderAZ.length; i++) {
+//     if (orderAZ[i] === myName)
+//     positionOfMyName = i;
+
+// }
+
+
+
